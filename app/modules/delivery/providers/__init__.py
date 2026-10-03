@@ -1,0 +1,1 @@
+"""Delivery platform provider adapters."""

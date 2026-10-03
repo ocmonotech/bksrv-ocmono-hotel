@@ -1,0 +1,7 @@
+# Migration scripts are stored here.
+#
+# Generate the first migration after models are ready:
+#   alembic revision --autogenerate -m "initial migration"
+#
+# Apply migrations:
+#   alembic upgrade head

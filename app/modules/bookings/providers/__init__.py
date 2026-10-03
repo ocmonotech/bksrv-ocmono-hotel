@@ -1,0 +1,1 @@
+"""Booking platform provider adapters."""
