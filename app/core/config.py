@@ -21,7 +21,7 @@ class Settings(BaseSettings):
     port: int = 8000
 
     database_url: str = (
-        "mysql+pymysql://user:password@localhost:3306/restrochain_db?charset=utf8mb4"
+        "mysql+pymysql://user:password@10.122.0.7:3306/restrochain_db?charset=utf8mb4"
     )
 
     jwt_secret_key: str = "change_this_secret"
